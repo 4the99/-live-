@@ -97,9 +97,12 @@
                         <br />
                         ****under active development please check back soon****
                         <br />
-                        The main thing that is holding me back for now, is the security core and going above and beyond for all <br />
-								if you are an experienced developer and want to volunteer some time to get the ball rolling <br />
-								just email admin at this domain we would be glad for the help :) 
+								We have now gone completely open source, no website has done this on the scale we are planning before, watch this space. <br />
+								Exact copy of the website as its running now:<br />
+								<a href="https://github.com/4the99/-live-">https://github.com/4the99/-live-</a> <br />
+								Working code, this is what is coming soon. <br />
+								<a href="https://github.com/4the99/alpha">https://github.com/4the99/-live-</a><br />
+								We could really use the help. <br />
                         <br />
 			</div>
 		</div>
