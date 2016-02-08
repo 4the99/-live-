@@ -11,11 +11,11 @@
 		#container 
 		{
 			position: relative;
-			width: 900px;
-			height: 600px;
+			width: 600px;
+			height: 900px;
 		}
 	}
-	
+	<!--
 @media all and (orientation:portrait)
 	{
 		#container 
@@ -25,7 +25,8 @@
 			height: 900px;
 		}
 	}
-	
+	// portrait looks absolutely horrible, i think... this forces it. 
+	-->
 	#block
 	{
 		background: #000;
