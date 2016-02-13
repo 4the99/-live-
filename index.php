@@ -97,9 +97,9 @@
                 <br />
                 We have now gone completely open source, no website has done this on the scale we are planning before, watch this space. <br />
                 Exact copy of the website as its running now:<br />
-                <a href="https://github.com/4the99/-live-">https://github.com/4the99/-live-</a> <br />
+                <a href="https://github.com/4the99/4the99">https://github.com/4the99/4the99</a> <br />
                 Working code, this is what is coming soon. <br />
-                <a href="https://github.com/4the99/alpha">https://github.com/4the99/-live-</a><br />
+                <a href="https://github.com/4the99/alpha">https://github.com/4the99/alpha</a><br />
                 We could really use the help. <br />
                 <br />
             </div>
